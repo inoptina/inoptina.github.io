@@ -1,0 +1,129 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="skit.ru" resolutions="1x" timestamp="1538925064660">
+  <folder name="css">
+    <file name="site_global.css" crc="4095158541"/>
+    <file name="index.css" crc="317673590" ref="index"/>
+    <file name="skit.css" crc="530544798" ref="skit"/>
+    <file name="photo.css" crc="237283339" ref="photo"/>
+    <file name="live.css" crc="4115055083" ref="live"/>
+    <file name="contacts.css" crc="225829522" ref="contacts"/>
+  </folder>
+  <folder name="fonts">
+    <file name="karina.woff" crc="19300739"/>
+    <file name="karina.eot" crc="4206866338"/>
+    <file name="karina.svg" crc="4035640191"/>
+    <file name="alegreya-regular.woff" crc="3773462310"/>
+    <file name="alegreya-regular.eot" crc="4260654926"/>
+    <file name="alegreya-regular.svg" crc="156051135"/>
+    <file name="cormorantgaramond-medium.woff" crc="283383854"/>
+    <file name="cormorantgaramond-medium.eot" crc="304993250"/>
+    <file name="cormorantgaramond-medium.svg" crc="4192974922"/>
+    <file name="breezebold.woff" crc="244708876"/>
+    <file name="breezebold.eot" crc="108688110"/>
+    <file name="breezebold.svg" crc="271293509"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:skit:live:photo:contacts"/>
+    <file name="museutils.js" crc="17924269" ref="index:skit:live:photo:contacts"/>
+    <file name="whatinput.js" crc="86476730" ref="index:skit:live:photo:contacts"/>
+    <file name="museconfig.js" crc="144853533" ref="index:skit:live:photo:contacts"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:skit:live:photo:contacts"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:skit:live:photo"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:skit:live:photo:contacts"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index:skit:live:photo"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:skit:live:photo:contacts"/>
+    <file name="require.js" crc="3861931657" ref="index:skit:live:photo:contacts"/>
+    <file name="webpro.js" crc="416662029" ref="photo:contacts"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="photo"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="photo"/>
+    <file name="touchswipe.js" crc="432264157" ref="photo"/>
+    <file name="form_check.php" crc="4110044762" ref="contacts"/>
+    <file name="form_throttle.php" crc="22190333" ref="contacts"/>
+    <file name="form_process.php" crc="257545537" ref="contacts"/>
+    <file name="form-u622.php" crc="3841334051" ref="contacts"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="77788978" seo="true" ref="index:skit:photo:contacts">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="photo" alt=""/>
+      <caption webpage="skit" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:live:photo:contacts"/>
+    <file name="скит_2018-09-14_80-u86-fr.jpg" crc="364082943" ref="index"/>
+    <file name="скит_2018-09-14_75-u141-fr.jpg" crc="3945399760" ref="index"/>
+    <file name="скит_2018-09-14_74-u143-fr.jpg" crc="91484285" ref="index"/>
+    <file name="скит_2018-09-14_30.jpg" crc="287266320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u388_states.png" crc="3973915510" ref="index"/>
+    <file name="u388_states-r.png" crc="4215965812" ref="index"/>
+    <file name="18558749_1508882169185256_10614386731095063_o-u824-fr.jpg" crc="3797401691" ref="skit"/>
+    <file name="heart.png" crc="117585526" seo="true" ref="skit:live:photo">
+      <caption webpage="live" alt=""/>
+      <caption webpage="photo" alt=""/>
+      <caption webpage="skit" alt=""/>
+    </file>
+    <file name="18556631_1508883282518478_5350988284965175575_o.jpg" crc="3988597678" seo="true" ref="skit:photo">
+      <caption webpage="photo" alt=""/>
+      <caption webpage="skit" alt=""/>
+    </file>
+    <file name="dr (33).jpg" crc="3845894803" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="u818.png" crc="3764104856" ref="live"/>
+    <file name="u818-r.png" crc="4218103092" ref="live"/>
+    <file name="dr (13).jpg" crc="390384230" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="скит_2018-09-14_04.jpg" crc="3967692040" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="dr (26).jpg" crc="47861500" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="18491371_1508881395852000_7393837417712018253_o.jpg" crc="330208308" seo="true" ref="photo">
+      <caption webpage="live" alt=""/>
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="скит_2018-09-14_80.jpg" crc="364082943" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="18518041_1508882132518593_579763140213184256_o.jpg" crc="4031969153" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="18527168_1508882749185198_7975236091069836320_o.jpg" crc="146271597" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="18527413_1508882589185214_6849760847348627190_o.jpg" crc="303282824" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="photo"/>
+    <file name="18491371_1508881395852000_7393837417712018253_o-u1096-fr.jpg" crc="4066419642" ref="live"/>
+    <file name="18491591_1508881369185336_5052985544213081865_o.jpg" crc="4057567266" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="18491371_1508881395852000_7393837417712018253_o271x204.jpg" crc="77587623" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="18491591_1508881369185336_5052985544213081865_o271x204.jpg" crc="4184999958" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="18518041_1508882132518593_579763140213184256_o271x204.jpg" crc="4261002106" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="18527168_1508882749185198_7975236091069836320_o271x204.jpg" crc="4027117702" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="18527413_1508882589185214_6849760847348627190_o271x204.jpg" crc="4272939225" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="18556631_1508883282518478_5350988284965175575_o271x204.jpg" crc="263901890" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4226571853" seo="true" mt="1538924678550" redirect="true"/>
+  <file name="skit.html" crc="4038214394" seo="true" mt="1538924854663" redirect="true"/>
+  <file name="live.html" crc="458289614" seo="true" mt="1538925057275" redirect="true"/>
+  <file name="photo.html" crc="3928115686" seo="true" mt="1538925040304" redirect="true"/>
+  <file name="contacts.html" crc="4115666255" seo="true" mt="1538924678550" redirect="true"/>
+</manifest>
